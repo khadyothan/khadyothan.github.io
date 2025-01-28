@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1215 E Vista Del Cerro Dr</p>
+    <p>699 S Mill Ave</p>
     <p>Tempe, Arizona 85281</p>
 
 news: false # includes a list of news items
