@@ -45,6 +45,13 @@ ninja.data = [{
           window.open("https://leetcode.com/u/khadyothan/", "_blank");
         },
       },{
+        id: 'social-letterboxd_url',
+        title: 'Letterboxd_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
