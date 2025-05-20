@@ -23,7 +23,7 @@ I was born in Gudivada, Andhra Pradesh, India, and moved to Hyderabad, where I c
 
 With my father being a film journalist, I found myself at the cinema every Friday, and my life has largely revolved around <strong>Math and Movies</strong>. From a very young age, I knew I wanted to tell stories, and what fascinated me even more was the idea of conveying rigorously formalized scientific concepts through storytelling.
 
-During my undergraduate years, I worked at two startups as a <strong>Software Engineer</strong>. As part of a startup, I was lucky enough to wear multiple hats, get exposure across the stack, and gain experience in full-stack development, distributed systems and machine learning. After I decided to take my storytelling a step further, I joined <a href="https://www.asu.edu/">Arizona State University</a> for my Master's in Computer Science.
+During my bachelor's, I worked at two startups as a <strong>Software Engineer</strong>. As part of a startup, I was lucky enough to wear multiple hats, get exposure across the stack, and gain experience in full-stack development, distributed systems and machine learning. After I decided to take my storytelling a step further, I joined <a href="https://www.asu.edu/">Arizona State University</a> for my Master's in Computer Science.
 
 Currently, I am conducting research in the space of distributed database environments and LSM-based key-value stores like RocksDB under <a href="https://asu-idi.github.io/">Prof. Zhichao Cao.</a> Alongside this, I am also building AI and Retrieval-Augmented Generation (RAG) pipelines as my side projects.
 
