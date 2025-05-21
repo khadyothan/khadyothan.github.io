@@ -19,17 +19,17 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I was born in Gudivada, Andhra Pradesh, India, and moved to Hyderabad, where I completed all of my education until the 12th grade. After that, I managed to scrape through JEE Mains and got into the <a href="https://www.iiits.ac.in/">Indian Institute of Information Technology, Sri City</a>, for my Bachelor’s in Computer Science.
+I am joining <strong> <a href="https://www.aboutamazon.com/what-we-do/amazon-web-services">Amazon Web Services (AWS)</a> </strong> as a <strong> Software Development Engineer </strong> in Herndon, VA. My interests include distributed systems, NoSQL databases (e.g., RocksDB), and backend engineering for data-intensive systems.
 
-With my father being a film journalist, I found myself at the cinema every Friday, and my life has largely revolved around <strong>Math and Movies</strong>. From a very young age, I knew I wanted to tell stories, and what fascinated me even more was the idea of conveying rigorously formalized scientific concepts through storytelling.
+I completed my <strong> Master’s in Computer Science </strong> from <strong> <a href="https://www.asu.edu/">Arizona State University</a> </strong> in 2025, where I worked under <strong> <a href="https://www.linkedin.com/in/zhichao-cao-705b9284/">Prof. Zhichao Cao</a> </strong> on <strong> redesigning LSM-based key-value stores to support strong consistency with secondary instances </strong>.
 
-During my bachelor's, I worked at two startups as a <strong>Software Engineer</strong>. As part of a startup, I was lucky enough to wear multiple hats, get exposure across the stack, and gain experience in full-stack development, distributed systems and machine learning. After I decided to take my storytelling a step further, I joined <a href="https://www.asu.edu/">Arizona State University</a> for my Master's in Computer Science.
+Prior to that, I earned my <strong>Bachelor’s in Computer Science</strong> from the <strong><a href="https://www.iiits.ac.in/">Indian Institute of Information Technology, Sri City</a></strong>, during which I interned at <strong><a href="https://www.medcuore.com/">MedCuore Medical Solutions Pvt Ltd</a></strong> as a Software Developer – AI/ML, and at <strong><a href="https://pianalytix.com/">Pianalytix Edutech</a></strong> as a Full Stack Engineer.
 
-Currently, I am conducting research in the space of distributed database environments and LSM-based key-value stores like RocksDB under <a href="https://asu-idi.github.io/">Prof. Zhichao Cao.</a> Alongside this, I am also building AI and Retrieval-Augmented Generation (RAG) pipelines as my side projects.
+### Some backstory
 
-Also, a note that I am looking for full-time opportunities, and if anyone, by mistake (pun intended), happen to stumble upon my website and have an opportunity, feel free to reach out!
+I was born in <strong> Gudivada </strong>, Andhra Pradesh, and moved to Hyderabad, where I completed all of my education until the 12th grade.
 
-Now that's all I say from my side—go around and have a look into my world of computer science and cinema.
+With my father being a film journalist, I grew up at the cinema every Friday, and my life has largely revolved around <strong> math and movies </strong>. Although I knew I wanted to write and tell stories through the 70mm lens, I also found it interesting to convey product ideas through storytelling and translate them into code — and that’s how I ended up in pursuing Computer Science with a <strong> passion to build products that people actually use </strong>.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
