@@ -147,10 +147,10 @@ collections:
     defaults:
       layout: post
     output: false
-    permalink: /:collection/:title/
+    # permalink: /:collection/:title/
   projects:
-    output: false
-    permalink: /:collection/:title/
+    output: true
+    # permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -202,15 +202,15 @@ exclude:
   - readme_preview/
   - vendor
   - _posts/
-  - _projects/
+  # - _projects/
   - _news/
   - _pages/blog.md
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/people.md
-  - _pages/projects.md
+  # - _pages/projects.md
   - _pages/repositories.md
-  # - _pages/cv.md
+  - _pages/cv.md
   - _pages/profiles.md
 keep_files:
   - CNAME
