@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Image Recognition as a Service
-description: Architected an on-demand, auto scaling application on AWS to handle 1000+ concurrent image-classification requests in under 60 seconds, comparing a custom EC2-based scaling solution against a serverless Lambda.
-img: assets/img/12.jpg
+title: Serverless Face Recognition
+description: A serverless face recognition pipeline using AWS Lambda, S3, and PyTorch with Docker-based deployment.
+img: assets/img/lambda_logo.png
 category: work
 redirect: https://github.com/khadyothan/lambda-face-recognition
 ---
