@@ -21,9 +21,9 @@ ninja.data = [{
           description: "Developed a real-time data ingestion pipeline to feed NYC cab trip data (150+ locations, 5000+ trips) into Kafka and a distributed Neo4j cluster, executing PageRank and BFS for advanced graph insights.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-image-recognition-as-a-service",
-          title: 'Image Recognition as a Service',
-          description: "Architected an on-demand, auto scaling application on AWS to handle 1000+ concurrent image-classification requests in under 60 seconds, comparing a custom EC2-based scaling solution against a serverless Lambda.",
+            },},{id: "projects-serverless-face-recognition",
+          title: 'Serverless Face Recognition',
+          description: "A serverless face recognition pipeline using AWS Lambda, S3, and PyTorch with Docker-based deployment.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-rag-application-for-arxiv-papers",
