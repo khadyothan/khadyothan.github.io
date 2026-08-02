@@ -10,26 +10,17 @@ profile:
   image: prof_pic_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>699 S Mill Ave</p>
-    <p>Tempe, Arizona 85281</p>
+    <p>Herndon, Virginia 20171</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 
-I am joining <strong> <a href="https://www.aboutamazon.com/what-we-do/amazon-web-services">Amazon Web Services (AWS)</a> </strong> as a <strong> Software Development Engineer </strong> in Herndon, VA. My interests include distributed systems, NoSQL databases (e.g., RocksDB), and backend engineering for data-intensive systems.
+Most of my day goes into writing <strong>software</strong> that helps monitor security across <strong>Amazon</strong>. In my free time, I love watching movies, collecting physical media, and writing. I’m especially interested in AI, robotics, and distributed systems.
 
-I completed my <strong> Master’s in Computer Science </strong> from <strong> <a href="https://www.asu.edu/">Arizona State University</a> </strong> in 2025, where I worked under <strong> <a href="https://www.linkedin.com/in/zhichao-cao-705b9284/">Prof. Zhichao Cao</a> </strong> on <strong> redesigning LSM-based key-value stores to support strong consistency with secondary instances </strong>.
-
-Prior to that, I earned my <strong>Bachelor’s in Computer Science</strong> from the <strong><a href="https://www.iiits.ac.in/">Indian Institute of Information Technology, Sri City</a></strong>, during which I interned at <strong><a href="https://www.medcuore.com/">MedCuore Medical Solutions Pvt Ltd</a></strong> as a Software Developer – AI/ML, and at <strong><a href="https://pianalytix.com/">Pianalytix Edutech</a></strong> as a Full Stack Engineer.
-
-### Some backstory
-
-I was born in <strong> Gudivada </strong>, Andhra Pradesh, and moved to Hyderabad, where I completed all of my education until the 12th grade.
-
-With my father being a film journalist, I grew up at the cinema every Friday, and my life has largely revolved around <strong> math and movies </strong>. Although I knew I wanted to write and tell stories through the 70mm lens, I also found it interesting to convey product ideas through storytelling and translate them into code — and that’s how I ended up in pursuing Computer Science with a <strong> passion to build products that people actually use </strong>.
+If you want to know what my 9-to-5 looks like, you can check out my LinkedIn. If you want a peek at what my 5-to-9 looks like, you’ll find my Letterboxd up top left.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
