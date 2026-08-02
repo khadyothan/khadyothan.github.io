@@ -13,7 +13,7 @@ ninja.data = [{
       
         title: "backpropagation",
       
-      description: "A simple introduction to how neural networks learn from mistakes.",
+      description: "understanding the intuition behind backpropagation",
       section: "Posts",
       handler: () => {
         
